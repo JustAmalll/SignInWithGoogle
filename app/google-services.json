@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099334669133",
+    "project_id": "signinwith-109e8",
+    "storage_bucket": "signinwith-109e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099334669133:android:0b9f4f236f17f1505ddd04",
+        "android_client_info": {
+          "package_name": "dev.amal.signinwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099334669133-tr37p4v03eajc53eucd4tqaduekq76n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtuqhqKnVpTXEsXXfAPQ1O6M66qmH1Y6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099334669133-tr37p4v03eajc53eucd4tqaduekq76n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

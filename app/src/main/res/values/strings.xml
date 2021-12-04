@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SignInWithGoogle</string>
+
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="example">Example</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_out">Sign out</string>
+
+    <string name="client_id" translatable="false">1099334669133-tr37p4v03eajc53eucd4tqaduekq76n3.apps.googleusercontent.com</string>
 </resources>
